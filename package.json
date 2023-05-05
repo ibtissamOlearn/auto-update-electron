@@ -12,8 +12,8 @@
     "publish": [
       {
         "provider": "github",
-        "owner": "jhm164",
-        "repo": "electron-updater-example"
+        "owner": "ibtissamOlearn",
+        "repo": "auto-update-electron"
       }
     ]
   },
